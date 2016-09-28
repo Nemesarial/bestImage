@@ -1,0 +1,23 @@
+{
+  "name": "bestImage",
+  "authors": [
+    "Mark Holtzhausen <mark.holtzhausen@gmail.com>"
+  ],
+  "description": "Responsive Image loading based on image display size.",
+  "main": "bestImage.js",
+  "keywords": [
+    "responsive",
+    "image",
+    "images",
+    "resize"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
